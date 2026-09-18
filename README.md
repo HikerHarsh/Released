@@ -1,22 +1,23 @@
-# Box Link - Released Builds
+# HikerHarsh Software Releases
 
-Welcome to the official release repository for **Box Link**.
+Welcome to the official distribution hub for applications developed by **HikerHarsh**.
 
-This repository is strictly dedicated to hosting the compiled, production-ready release builds (executables, installers) for the Box Link application. It utilizes Git Large File Storage (LFS) to efficiently manage and distribute heavy binary files.
+This repository serves as a centralized binary release registry. It is dedicated strictly to hosting compiled, production-ready setups and executables for various software projects, utilizing Git Large File Storage (LFS) for fast and reliable distribution.
 
-## 📦 About This Repository
-- **Purpose:** Centralized distribution of stable application releases.
-- **Contents:** `.exe` installers, setup files, and built packages.
-- **Note:** The source code for Box Link is maintained in a separate, private repository.
+## 📦 What's Inside?
+- Official `.exe` installers for Windows.
+- Production-ready builds of various applications.
+- Standalone binaries built for end-users.
 
-## 🚀 Downloading the App
-To install the latest version of Box Link:
-1. Navigate to the files section of this repository.
-2. Download the latest `Box Link Setup X.X.X.exe` file.
-3. Run the installer on your Windows machine to set up the application.
+*(Note: The source codes for these applications are maintained in their respective private/public repositories. This repository is strictly for end-user distribution.)*
 
-## ⚠️ Important Note
-Since these binaries are tracked using Git LFS, ensure you have [Git LFS installed](https://git-lfs.com/) if you intend to clone the repository entirely, otherwise, direct downloads from the web interface will work perfectly.
+## 🚀 How to Download & Install
+1. Browse the files in this repository.
+2. Locate the `.exe` setup file for the specific software you wish to install.
+3. Download the file and run it on your Windows machine to begin the installation.
+
+## ⚠️ Important Note for Developers
+This repository leverages [Git LFS](https://git-lfs.com/) to manage heavy binary files. If you intend to clone this repository, ensure that you have Git LFS installed on your system. For general users, directly downloading files via the GitHub web interface works perfectly.
 
 ---
-*Maintained by HikerHarsh.*
+*Developed and maintained with ❤️ by [HikerHarsh](https://github.com/HikerHarsh).*
