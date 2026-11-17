@@ -4,17 +4,20 @@ Welcome to the official distribution hub for applications developed by **HikerHa
 
 This repository serves as a centralized binary release registry. It is dedicated strictly to hosting compiled, production-ready setups and executables for various software projects, utilizing Git Large File Storage (LFS) for fast and reliable distribution.
 
-## 📦 What's Inside?
-- Official `.exe` installers for Windows.
-- Production-ready builds of various applications.
-- Standalone binaries built for end-users.
+## 📦 Released Applications
 
-*(Note: The source codes for these applications are maintained in their respective private/public repositories. This repository is strictly for end-user distribution.)*
+### 1. [Box Link POS](./Box%20Link/)
+An enterprise-grade, offline-first Point of Sale (POS) and inventory management system engineered for wholesale and retail businesses.
+
+### 2. [Fyers Desktop App](./Fyers%20Desktop/)
+An ultra-fast, low-latency Windows desktop wrapper for Fyers Trading Terminal, engineered with GPU acceleration, zero background throttling, and 4GB dedicated V8 heap memory.
+
+---
 
 ## 🚀 How to Download & Install
-1. Browse the files in this repository.
-2. Locate the `.exe` setup file for the specific software you wish to install.
-3. Download the file and run it on your Windows machine to begin the installation.
+1. Browse to the specific application folder above.
+2. Download the `.exe` setup or portable binary.
+3. Run the file on your 64-bit Windows machine.
 
 ## ⚠️ Important Note for Developers
 This repository leverages [Git LFS](https://git-lfs.com/) to manage heavy binary files. If you intend to clone this repository, ensure that you have Git LFS installed on your system. For general users, directly downloading files via the GitHub web interface works perfectly.
